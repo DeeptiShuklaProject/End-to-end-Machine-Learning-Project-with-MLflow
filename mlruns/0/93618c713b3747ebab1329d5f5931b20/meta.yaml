@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearningAdvance/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/93618c713b3747ebab1329d5f5931b20/artifacts
+end_time: 1728376479822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93618c713b3747ebab1329d5f5931b20
+run_name: unique-cow-811
+run_uuid: 93618c713b3747ebab1329d5f5931b20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728376448461
+status: 4
+tags: []
+user_id: admin
