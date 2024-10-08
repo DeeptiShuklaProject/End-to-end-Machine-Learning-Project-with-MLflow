@@ -66,7 +66,7 @@ open up you local host and port
 
 
 
-MLFLOW_TRACKING_URI=MLFLOW_TRACKING_URI=https://dagshub.com/deeptishukla515/End-to-end-Machine-Learning-Project-with-MLflow.mlflow \
+MLFLOW_TRACKING_URI=https://dagshub.com/deeptishukla515/End-to-end-Machine-Learning-Project-with-MLflow.mlflow \
 MLFLOW_TRACKING_USERNAME=deeptishukla515 \
 MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0 \
 python script.py

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearningAdvance/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/3692adf601a04134ae14a8b64997237e/artifacts
+end_time: 1728375184213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3692adf601a04134ae14a8b64997237e
+run_name: wistful-rook-754
+run_uuid: 3692adf601a04134ae14a8b64997237e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728375134201
+status: 4
+tags: []
+user_id: admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearningAdvance/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/15054300399f4010b0423ca4a05d0f0f/artifacts
+end_time: 1728374789924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15054300399f4010b0423ca4a05d0f0f
+run_name: caring-crane-180
+run_uuid: 15054300399f4010b0423ca4a05d0f0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728374775215
+status: 4
+tags: []
+user_id: admin
